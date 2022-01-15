@@ -1,0 +1,10 @@
+C:\Users\OMAR\source\repos\CsForm\bin\Debug\CsForm.exe.config
+C:\Users\OMAR\source\repos\CsForm\bin\Debug\CsForm.exe
+C:\Users\OMAR\source\repos\CsForm\bin\Debug\CsForm.pdb
+C:\Users\OMAR\source\repos\CsForm\obj\Debug\CsForm.csproj.AssemblyReference.cache
+C:\Users\OMAR\source\repos\CsForm\obj\Debug\CsForm.Form1.resources
+C:\Users\OMAR\source\repos\CsForm\obj\Debug\CsForm.Properties.Resources.resources
+C:\Users\OMAR\source\repos\CsForm\obj\Debug\CsForm.csproj.GenerateResource.cache
+C:\Users\OMAR\source\repos\CsForm\obj\Debug\CsForm.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\source\repos\CsForm\obj\Debug\CsForm.exe
+C:\Users\OMAR\source\repos\CsForm\obj\Debug\CsForm.pdb

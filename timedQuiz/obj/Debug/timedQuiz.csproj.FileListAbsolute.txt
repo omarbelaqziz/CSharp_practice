@@ -1,0 +1,10 @@
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\timedQuiz\bin\Debug\timedQuiz.exe.config
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\timedQuiz\bin\Debug\timedQuiz.exe
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\timedQuiz\bin\Debug\timedQuiz.pdb
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\timedQuiz\obj\Debug\timedQuiz.csproj.AssemblyReference.cache
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\timedQuiz\obj\Debug\timedQuiz.timedQuiz.resources
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\timedQuiz\obj\Debug\timedQuiz.Properties.Resources.resources
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\timedQuiz\obj\Debug\timedQuiz.csproj.GenerateResource.cache
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\timedQuiz\obj\Debug\timedQuiz.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\timedQuiz\obj\Debug\timedQuiz.exe
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\timedQuiz\obj\Debug\timedQuiz.pdb

@@ -1,0 +1,10 @@
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\matchingGame\bin\Debug\matchingGame.exe.config
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\matchingGame\bin\Debug\matchingGame.exe
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\matchingGame\bin\Debug\matchingGame.pdb
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\matchingGame\obj\Debug\matchingGame.csproj.AssemblyReference.cache
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\matchingGame\obj\Debug\matchingGame.matchingGame.resources
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\matchingGame\obj\Debug\matchingGame.Properties.Resources.resources
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\matchingGame\obj\Debug\matchingGame.csproj.GenerateResource.cache
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\matchingGame\obj\Debug\matchingGame.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\matchingGame\obj\Debug\matchingGame.exe
+C:\Users\OMAR\Documents\documents_personal\production\IT_Studies\ILISI POOA\C#_TP\matchingGame\obj\Debug\matchingGame.pdb
